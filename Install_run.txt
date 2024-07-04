@@ -1,0 +1,7 @@
+WATCH:
+
+npm run watch
+
+BUILD:
+
+npm run build
